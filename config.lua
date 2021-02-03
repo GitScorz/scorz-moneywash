@@ -9,7 +9,7 @@ Config.KeyToWash = 38 -- E
 Config.MoneyWash = {
     Pos = { 1136.8, -991.8, 46.12 },
     WhitelistedJobs = { -- Only enabled if Config.EnableAllJobsToWash = true
-        'favela', 
+        'mafia', 
         'police'
         --[[ 'vanilla' ]] 
     }, 
