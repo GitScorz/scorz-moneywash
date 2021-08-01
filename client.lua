@@ -54,10 +54,6 @@ Citizen.CreateThread(function()
     end
 end)
 
-RegisterCommand('f', function()
-    FreezeEntityPosition(player, false)
-end)
-
 function Wash()
     ESX.UI.Menu.Open('dialog', GetCurrentResourceName(), 'wash_dialog', {
         title = (Language['amount_to_wash'])
