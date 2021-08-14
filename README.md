@@ -1,7 +1,3 @@
 # scorz_moneywash
-
 Simple fivem moneywash script for ESX Framework
-
-Discord: https://discord.gg/Kmw2Spp
-
-By Scorz
+* Discord: https://discord.gg/E3ttj56Uw4
